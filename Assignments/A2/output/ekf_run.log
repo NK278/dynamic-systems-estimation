@@ -1,0 +1,13 @@
+[13:01:48] INFO     | Finance_EKF | ExtendedKalmanFilter initialised | x0=0.0000  P0=1.0000
+[13:01:48] INFO     | Finance_EKF | Starting EKF run over 500 measurements …
+[13:01:48] INFO     | Finance_EKF | EKF run complete | N=500 | innovation mean=0.003889  std=0.332637 | final x_est=0.1424  final P_est=0.098269
+[13:01:48] INFO     | Finance_EKF | RMSE over full run: 0.321489
+[13:01:48] INFO     | Finance_EKF | Figure saved → output/part2_ekf_results.png
+[20:08:27] INFO     | Finance_EKF | ExtendedKalmanFilter initialised | x0=0.0000  P0=1.0000
+[20:08:27] INFO     | Finance_EKF | Starting EKF run over 500 measurements …
+[20:08:27] INFO     | Finance_EKF | EKF run complete | N=500 | innovation mean=0.003889  std=0.332637 | final x_est=0.1424  final P_est=0.098269
+[20:08:42] INFO     | Finance_EKF | Saved → output/plot1_state_estimate.png
+[20:08:42] INFO     | Finance_EKF | RMSE over full run: 0.321489
+[20:08:44] INFO     | Finance_EKF | Saved → output/plot2_estimation_error.png
+[20:08:47] INFO     | Finance_EKF | Saved → output/plot3_innovations.png
+[20:08:48] INFO     | Finance_EKF | Saved → output/plot4_kalman_gain.png
